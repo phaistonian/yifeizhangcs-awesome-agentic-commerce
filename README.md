@@ -280,6 +280,7 @@ This repository complements the survey:
 * [arXiv 2026] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
 * [arXiv 2026] EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent. [link](https://arxiv.org/abs/2606.17698)
 * [arXiv 2026] ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping. [link](https://arxiv.org/abs/2606.31693)
+* [arXiv 2026] SkillChain: Closing the Loop on Skill Evolution for Image-Based E-Commerce AI Assistants. [link](https://arxiv.org/abs/2606.12984)
 
 
 ### Marketplaces (C2C / P2P)
